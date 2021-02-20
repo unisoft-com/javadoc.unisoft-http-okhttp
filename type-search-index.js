@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.unisoft.http.okhttp","l":"Configuration"},{"p":"com.unisoft.http.okhttp","l":"OkHttpAsyncHttpClient"},{"p":"com.unisoft.http.okhttp","l":"OkHttpAsyncHttpClientBuilder"},{"p":"com.unisoft.http.okhttp","l":"OkHttpClientProvider"}]
